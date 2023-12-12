@@ -1,0 +1,42 @@
+[12-Feb-2020 09:02:16 CST6CDT] PHP Fatal error:  Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[21-Feb-2020 22:52:34 CST6CDT] PHP Fatal error:  Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[19-Mar-2020 10:11:13 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[20-Mar-2020 19:36:43 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[30-Apr-2020 00:10:38 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[30-Apr-2020 16:57:52 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[30-Apr-2020 22:38:39 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[16-May-2020 15:38:45 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[24-Jun-2020 01:17:35 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[11-Jul-2020 19:59:29 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[25-Jul-2020 03:38:15 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[02-Aug-2020 18:08:22 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/modeknit/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
