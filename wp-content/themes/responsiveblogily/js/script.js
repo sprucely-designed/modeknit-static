@@ -167,3 +167,13 @@ jQuery.fn.exists = function( callback ) {
 	});
 
 })(jQuery);
+
+// Banner Script for Modeknit Static Site
+// This script adds a banner to the top of every page, indicating that the site is a static archive of Annie Modesitt's ModeKnit and providing a link to the GitHub repository for more information.
+document.addEventListener('DOMContentLoaded', function() {
+    var banner = document.createElement('div');
+    banner.style.cssText = 'background-color: #333; color: white; text-align: center; padding: 15px; position: fixed; width: 100%; top: 0; z-index: 1000; font-family: Arial, sans-serif; box-shadow: 0 2px 4px rgba(0,0,0,.2);';
+    banner.innerHTML = '<p style="margin: 0; font-size: 16px;">This site is a static archive of Annie Modesitt\'s ModeKnit.com. For comments and more information, visit our <a href="https://github.com/sprucely-designed/modeknit-static" target="_blank" style="color: #4CAF50; text-decoration: none; font-weight: bold;">GitHub repository</a>.</p>';
+
+    document.body.insertBefore(banner, document.body.firstChild);
+});
